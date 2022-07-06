@@ -21,7 +21,7 @@
 .header-title {
     font-size: 65px;
     font-weight: 700;
-    color: #00BFFF;
+    color: #0000CD;
     margin-bottom: 40px;
 }
 
@@ -131,6 +131,7 @@
 
 .third-Section {
     text-align: center;
+    width: 100%;
 }
 
 .second-title {
@@ -144,4 +145,59 @@
 .pragraph-area2 {
     color: slategrey;
     font-size: 16px;
+}
+
+.third-div-area {
+    display: flex;
+    text-align: center;
+    margin: 40px 150px;
+}
+
+.third-div1 {
+    background-color: #FFC0CB;
+    margin: 15px;
+    padding: 60px 10px 50px 30px;
+    text-align: left;
+}
+
+.plan-title {
+    padding-top: 20px;
+}
+
+.Donate-plan {
+    padding-top: 10px;
+}
+
+.third-div2 {
+    background-color: #D3D3D3;
+    padding: 60px 10px 50px 30px;
+    margin: 15px;
+    text-align: left;
+}
+
+.third-div3 {
+    background-color: #FFEBCD;
+    padding: 60px 10px 50px 30px;
+    margin: 15px;
+    text-align: left;
+}
+
+.footre-area {
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.footre-area h1 {
+    color: red;
+    padding-top: 20px;
+}
+
+.footre-area h3 {
+    color: blue;
+}
+
+.footre-area p {
+    padding-bottom: 26px;
 }
