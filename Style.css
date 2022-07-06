@@ -33,14 +33,14 @@
 }
 
 .button-area {
-    font-size: 30px;
+    font-size: 25px;
     color: white;
-    padding: 15px 35px;
+    padding: 10px 22px;
     text-decoration: none;
     font-family: 'Times New Roman', Times, serif;
     font-weight: 700;
     background-color: red;
-    border-radius: 30px;
+    border-radius: 15px;
 }
 
 
@@ -95,4 +95,53 @@
 
 .second-div1 ul li a:hover {
     color: #000000;
+}
+
+.second-div2 {
+    width: 100%;
+    text-align: center;
+    margin: 75px 0px 40px 0px;
+}
+
+.second-div2 input {
+    color: black;
+    font-size: 16px;
+    line-height: 2em;
+    text-align: center;
+    border: none;
+    padding: 0 200px;
+    outline: none;
+    border-bottom: 2px solid silver;
+    margin-bottom: 35px;
+}
+
+.button-area1 {
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 700;
+    color: whitesmoke;
+    background-color: red;
+    padding: 13px 20px;
+    border-radius: 10px;
+}
+
+
+/* =========================
+============================ */
+
+.third-Section {
+    text-align: center;
+}
+
+.second-title {
+    margin-top: 70px;
+    color: black;
+    font-size: 40px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+.pragraph-area2 {
+    color: slategrey;
+    font-size: 16px;
 }
